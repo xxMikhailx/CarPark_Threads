@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
  */
 public class Car extends Thread {
 
-    private static Logger LOG = Logger.getLogger(Car.class);
+    private final static Logger LOG = Logger.getLogger(Car.class);
 
     private boolean standing;
     private ParkPool pool;
@@ -34,22 +34,7 @@ public class Car extends Thread {
         standing = false;
         System.out.println("Car №" + this.getId() + " : " + lot.getLotId() + " lot released. Parking №" + lot.getParkId());
         pool.returnLot(lot);
-        /*try {
-                lot = pool.getLot(500);
-            standing = true;
-            System.out.println("Car №" + this.getId() + " took park lot №" + lot.getLotId());
-//            LOG.info("Car №" + this.getId() + " start using lot №" + lot.getLotId());
-            lot.using();
-//            LOG.info("Car №" + this.getId() + " end using lot №" + lot.getLotId());
-        } catch (ParkException e){
-            System.out.println("Car №" + this.getId() + " lost -> " + e.getMessage());
-        } finally {
-            if (lot != null){
-                standing = false;
-                System.out.println("Car №" + this.getId() + " : " + lot.getLotId() + " lot released");
-                pool.returnLot(lot);
-            }
-        }*/
+
         LOG.debug("Car #" + this.getId() + " is terminated");
     }
 

@@ -13,17 +13,17 @@ import java.util.concurrent.TimeUnit;
  */
 public class ParkPool {
 
-    private static Logger LOG = Logger.getLogger(ParkPool.class);
+    private final static Logger LOG = Logger.getLogger(ParkPool.class);
     private final static int POOL_SIZE_PARK0 = 5;
     private final static int POOL_SIZE_PARK1 = 6;
     private final static int POOL_SIZE_PARK2 = 7;
-    private final Semaphore semaphore0 = new Semaphore(POOL_SIZE_PARK0, true);
-    private final Semaphore semaphore1 = new Semaphore(POOL_SIZE_PARK1, true);
-    private final Semaphore semaphore2 = new Semaphore(POOL_SIZE_PARK2, true);
+    private Semaphore semaphore0 = new Semaphore(POOL_SIZE_PARK0, true);
+    private Semaphore semaphore1 = new Semaphore(POOL_SIZE_PARK1, true);
+    private Semaphore semaphore2 = new Semaphore(POOL_SIZE_PARK2, true);
 
-    private final Queue<ParkLot> park0 = new ConcurrentLinkedQueue<>();
-    private final Queue<ParkLot> park1 = new ConcurrentLinkedQueue<>();
-    private final Queue<ParkLot> park2 = new ConcurrentLinkedQueue<>();
+    private Queue<ParkLot> park0 = new ConcurrentLinkedQueue<>();
+    private Queue<ParkLot> park1 = new ConcurrentLinkedQueue<>();
+    private Queue<ParkLot> park2 = new ConcurrentLinkedQueue<>();
 
     public ParkPool(Queue<ParkLot> lotPark0, Queue<ParkLot> lotPark1, Queue<ParkLot> lotPark2){
         park0.addAll(lotPark0);

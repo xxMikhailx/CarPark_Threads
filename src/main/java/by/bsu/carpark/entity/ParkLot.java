@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class ParkLot {
 
-    private static Logger LOG = Logger.getLogger(ParkLot.class);
+    private final static Logger LOG = Logger.getLogger(ParkLot.class);
 
     private int lotId;
     private int parkId;

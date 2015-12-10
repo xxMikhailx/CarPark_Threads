@@ -18,7 +18,7 @@ public class Main {
         new DOMConfigurator().doConfigure("log4j.xml", LogManager.getLoggerRepository());
     }
 
-    private static Logger LOG = Logger.getLogger(Main.class);
+    private final static Logger LOG = Logger.getLogger(Main.class);
 
     public static void main(String[] args) {
 
