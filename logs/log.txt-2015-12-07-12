@@ -1,0 +1,15 @@
+07.12.2015 12:03:39,192 [Thread-1] INFO  by.bsu.carpark.entity.Car - Car №12 start using lot №2
+07.12.2015 12:03:39,192 [Thread-4] INFO  by.bsu.carpark.entity.Car - Car №15 start using lot №5
+07.12.2015 12:03:39,192 [Thread-0] INFO  by.bsu.carpark.entity.Car - Car №11 start using lot №1
+07.12.2015 12:03:39,192 [Thread-3] INFO  by.bsu.carpark.entity.Car - Car №14 start using lot №4
+07.12.2015 12:03:39,195 [Thread-3] INFO  by.bsu.carpark.entity.ParkLot - TRASH = 12
+07.12.2015 12:03:39,192 [Thread-2] INFO  by.bsu.carpark.entity.Car - Car №13 start using lot №3
+07.12.2015 12:03:39,195 [Thread-0] INFO  by.bsu.carpark.entity.ParkLot - TRASH = 60
+07.12.2015 12:03:39,195 [Thread-4] INFO  by.bsu.carpark.entity.ParkLot - TRASH = 75
+07.12.2015 12:03:39,195 [Thread-1] INFO  by.bsu.carpark.entity.ParkLot - TRASH = 13
+07.12.2015 12:03:39,196 [Thread-2] INFO  by.bsu.carpark.entity.ParkLot - TRASH = 37
+07.12.2015 12:03:39,208 [Thread-3] INFO  by.bsu.carpark.entity.Car - Car №14 end using lot №4
+07.12.2015 12:03:39,209 [Thread-1] INFO  by.bsu.carpark.entity.Car - Car №12 end using lot №2
+07.12.2015 12:03:39,234 [Thread-2] INFO  by.bsu.carpark.entity.Car - Car №13 end using lot №3
+07.12.2015 12:03:39,256 [Thread-0] INFO  by.bsu.carpark.entity.Car - Car №11 end using lot №1
+07.12.2015 12:03:39,273 [Thread-4] INFO  by.bsu.carpark.entity.Car - Car №15 end using lot №5

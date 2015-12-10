@@ -1,0 +1,320 @@
+08.12.2015 23:47:35,794 [main] INFO  by.bsu.carpark.entity.Car - Thread #11 is created
+08.12.2015 23:47:35,797 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - Thread #11 tried to getLot
+08.12.2015 23:47:35,799 [main] INFO  by.bsu.carpark.entity.Car - Thread #12 is created
+08.12.2015 23:47:35,799 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - Thread #12 tried to getLot
+08.12.2015 23:47:35,801 [main] INFO  by.bsu.carpark.entity.Car - Thread #13 is created
+08.12.2015 23:47:35,802 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - Thread #13 tried to getLot
+08.12.2015 23:47:35,804 [main] INFO  by.bsu.carpark.entity.Car - Thread #14 is created
+08.12.2015 23:47:35,804 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Thread #14 tried to getLot
+08.12.2015 23:47:35,806 [main] INFO  by.bsu.carpark.entity.Car - Thread #15 is created
+08.12.2015 23:47:35,808 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Thread #15 tried to getLot
+08.12.2015 23:47:35,809 [main] INFO  by.bsu.carpark.entity.Car - Thread #16 is created
+08.12.2015 23:47:35,809 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Thread #16 tried to getLot
+08.12.2015 23:47:35,811 [main] INFO  by.bsu.carpark.entity.Car - Thread #17 is created
+08.12.2015 23:47:35,811 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Thread #17 tried to getLot
+08.12.2015 23:47:35,813 [main] INFO  by.bsu.carpark.entity.Car - Thread #18 is created
+08.12.2015 23:47:35,813 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Thread #18 tried to getLot
+08.12.2015 23:47:35,817 [main] INFO  by.bsu.carpark.entity.Car - Thread #19 is created
+08.12.2015 23:47:35,819 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Thread #19 tried to getLot
+08.12.2015 23:47:35,821 [main] INFO  by.bsu.carpark.entity.Car - Thread #20 is created
+08.12.2015 23:47:35,821 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Thread #20 tried to getLot
+08.12.2015 23:47:35,822 [main] INFO  by.bsu.carpark.entity.Car - Thread #21 is created
+08.12.2015 23:47:35,823 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Thread #21 tried to getLot
+08.12.2015 23:47:35,824 [main] INFO  by.bsu.carpark.entity.Car - Thread #22 is created
+08.12.2015 23:47:35,824 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Thread #22 tried to getLot
+08.12.2015 23:47:35,825 [main] INFO  by.bsu.carpark.entity.Car - Thread #23 is created
+08.12.2015 23:47:35,828 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Thread #23 tried to getLot
+08.12.2015 23:47:35,829 [main] INFO  by.bsu.carpark.entity.Car - Thread #24 is created
+08.12.2015 23:47:35,830 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Thread #24 tried to getLot
+08.12.2015 23:47:35,832 [main] INFO  by.bsu.carpark.entity.Car - Thread #25 is created
+08.12.2015 23:47:35,832 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Thread #25 tried to getLot
+08.12.2015 23:47:35,833 [main] INFO  by.bsu.carpark.entity.Car - Thread #26 is created
+08.12.2015 23:47:35,833 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Thread #26 tried to getLot
+08.12.2015 23:47:35,834 [main] INFO  by.bsu.carpark.entity.Car - Thread #27 is created
+08.12.2015 23:47:35,835 [main] INFO  by.bsu.carpark.entity.Car - Thread #28 is created
+08.12.2015 23:47:35,835 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Thread #27 tried to getLot
+08.12.2015 23:47:35,835 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Thread #28 tried to getLot
+08.12.2015 23:47:35,837 [main] INFO  by.bsu.carpark.entity.Car - Thread #29 is created
+08.12.2015 23:47:35,837 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Thread #29 tried to getLot
+08.12.2015 23:47:35,838 [main] INFO  by.bsu.carpark.entity.Car - Thread #30 is created
+08.12.2015 23:47:35,839 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Thread #30 tried to getLot
+08.12.2015 23:49:26,325 [main] INFO  by.bsu.carpark.entity.Car - Thread #11 is created
+08.12.2015 23:49:26,327 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - Thread #11 tried to getLot
+08.12.2015 23:49:26,329 [main] INFO  by.bsu.carpark.entity.Car - Thread #12 is created
+08.12.2015 23:49:26,329 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - Thread #12 tried to getLot
+08.12.2015 23:49:26,330 [main] INFO  by.bsu.carpark.entity.Car - Thread #13 is created
+08.12.2015 23:49:26,330 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - Thread #13 tried to getLot
+08.12.2015 23:49:26,331 [main] INFO  by.bsu.carpark.entity.Car - Thread #14 is created
+08.12.2015 23:49:26,331 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Thread #14 tried to getLot
+08.12.2015 23:49:26,332 [main] INFO  by.bsu.carpark.entity.Car - Thread #15 is created
+08.12.2015 23:49:26,332 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Thread #15 tried to getLot
+08.12.2015 23:49:26,334 [main] INFO  by.bsu.carpark.entity.Car - Thread #16 is created
+08.12.2015 23:49:26,335 [main] INFO  by.bsu.carpark.entity.Car - Thread #17 is created
+08.12.2015 23:49:26,335 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Thread #16 tried to getLot
+08.12.2015 23:49:26,336 [main] INFO  by.bsu.carpark.entity.Car - Thread #18 is created
+08.12.2015 23:49:26,336 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Thread #17 tried to getLot
+08.12.2015 23:49:26,336 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Thread #18 tried to getLot
+08.12.2015 23:49:26,337 [main] INFO  by.bsu.carpark.entity.Car - Thread #19 is created
+08.12.2015 23:49:26,338 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Thread #19 tried to getLot
+08.12.2015 23:49:26,339 [main] INFO  by.bsu.carpark.entity.Car - Thread #20 is created
+08.12.2015 23:49:26,339 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Thread #20 tried to getLot
+08.12.2015 23:49:26,340 [main] INFO  by.bsu.carpark.entity.Car - Thread #21 is created
+08.12.2015 23:49:26,340 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Thread #21 tried to getLot
+08.12.2015 23:49:26,342 [main] INFO  by.bsu.carpark.entity.Car - Thread #22 is created
+08.12.2015 23:49:26,342 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Thread #22 tried to getLot
+08.12.2015 23:49:26,343 [main] INFO  by.bsu.carpark.entity.Car - Thread #23 is created
+08.12.2015 23:49:26,350 [main] INFO  by.bsu.carpark.entity.Car - Thread #24 is created
+08.12.2015 23:49:26,351 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Thread #23 tried to getLot
+08.12.2015 23:49:26,352 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Thread #24 tried to getLot
+08.12.2015 23:49:26,352 [main] INFO  by.bsu.carpark.entity.Car - Thread #25 is created
+08.12.2015 23:49:26,353 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Thread #25 tried to getLot
+08.12.2015 23:49:26,354 [main] INFO  by.bsu.carpark.entity.Car - Thread #26 is created
+08.12.2015 23:49:26,355 [main] INFO  by.bsu.carpark.entity.Car - Thread #27 is created
+08.12.2015 23:49:26,356 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Thread #26 tried to getLot
+08.12.2015 23:49:26,356 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Thread #27 tried to getLot
+08.12.2015 23:49:26,358 [main] INFO  by.bsu.carpark.entity.Car - Thread #28 is created
+08.12.2015 23:49:26,362 [main] INFO  by.bsu.carpark.entity.Car - Thread #29 is created
+08.12.2015 23:49:26,362 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Thread #28 tried to getLot
+08.12.2015 23:49:26,363 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Thread #29 tried to getLot
+08.12.2015 23:49:26,364 [main] INFO  by.bsu.carpark.entity.Car - Thread #30 is created
+08.12.2015 23:49:26,364 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Thread #30 tried to getLot
+08.12.2015 23:51:43,422 [main] INFO  by.bsu.carpark.entity.Car - Thread #11 is created
+08.12.2015 23:51:43,424 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - Thread #11 tried to getLot
+08.12.2015 23:51:43,426 [main] INFO  by.bsu.carpark.entity.Car - Thread #12 is created
+08.12.2015 23:51:43,426 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - Thread #12 tried to getLot
+08.12.2015 23:51:43,427 [main] INFO  by.bsu.carpark.entity.Car - Thread #13 is created
+08.12.2015 23:51:43,429 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - Thread #13 tried to getLot
+08.12.2015 23:51:43,430 [main] INFO  by.bsu.carpark.entity.Car - Thread #14 is created
+08.12.2015 23:51:43,430 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Thread #14 tried to getLot
+08.12.2015 23:51:43,432 [main] INFO  by.bsu.carpark.entity.Car - Thread #15 is created
+08.12.2015 23:51:43,432 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Thread #15 tried to getLot
+08.12.2015 23:51:43,434 [main] INFO  by.bsu.carpark.entity.Car - Thread #16 is created
+08.12.2015 23:51:43,434 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Thread #16 tried to getLot
+08.12.2015 23:51:43,435 [main] INFO  by.bsu.carpark.entity.Car - Thread #17 is created
+08.12.2015 23:51:43,435 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Thread #17 tried to getLot
+08.12.2015 23:51:43,436 [main] INFO  by.bsu.carpark.entity.Car - Thread #18 is created
+08.12.2015 23:51:43,436 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Thread #18 tried to getLot
+08.12.2015 23:51:43,438 [main] INFO  by.bsu.carpark.entity.Car - Thread #19 is created
+08.12.2015 23:51:43,438 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Thread #19 tried to getLot
+08.12.2015 23:51:43,439 [main] INFO  by.bsu.carpark.entity.Car - Thread #20 is created
+08.12.2015 23:51:43,439 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Thread #20 tried to getLot
+08.12.2015 23:51:43,441 [main] INFO  by.bsu.carpark.entity.Car - Thread #21 is created
+08.12.2015 23:51:43,442 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Thread #21 tried to getLot
+08.12.2015 23:51:43,443 [main] INFO  by.bsu.carpark.entity.Car - Thread #22 is created
+08.12.2015 23:51:43,444 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Thread #22 tried to getLot
+08.12.2015 23:51:43,445 [main] INFO  by.bsu.carpark.entity.Car - Thread #23 is created
+08.12.2015 23:51:43,445 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Thread #23 tried to getLot
+08.12.2015 23:51:43,446 [main] INFO  by.bsu.carpark.entity.Car - Thread #24 is created
+08.12.2015 23:51:43,446 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Thread #24 tried to getLot
+08.12.2015 23:51:43,448 [main] INFO  by.bsu.carpark.entity.Car - Thread #25 is created
+08.12.2015 23:51:43,449 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Thread #25 tried to getLot
+08.12.2015 23:51:43,450 [main] INFO  by.bsu.carpark.entity.Car - Thread #26 is created
+08.12.2015 23:51:43,451 [main] INFO  by.bsu.carpark.entity.Car - Thread #27 is created
+08.12.2015 23:51:43,451 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Thread #26 tried to getLot
+08.12.2015 23:51:43,452 [main] INFO  by.bsu.carpark.entity.Car - Thread #28 is created
+08.12.2015 23:51:43,453 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Thread #27 tried to getLot
+08.12.2015 23:51:43,454 [main] INFO  by.bsu.carpark.entity.Car - Thread #29 is created
+08.12.2015 23:51:43,454 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Thread #28 tried to getLot
+08.12.2015 23:51:43,455 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Thread #29 tried to getLot
+08.12.2015 23:51:43,456 [main] INFO  by.bsu.carpark.entity.Car - Thread #30 is created
+08.12.2015 23:51:43,456 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Thread #30 tried to getLot
+08.12.2015 23:53:59,865 [main] INFO  by.bsu.carpark.entity.Car - Thread #11 is created
+08.12.2015 23:53:59,868 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - Thread #11 tried to getLot
+08.12.2015 23:53:59,869 [main] INFO  by.bsu.carpark.entity.Car - Thread #12 is created
+08.12.2015 23:53:59,869 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - Thread #12 tried to getLot
+08.12.2015 23:53:59,870 [main] INFO  by.bsu.carpark.entity.Car - Thread #13 is created
+08.12.2015 23:53:59,870 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - Thread #13 tried to getLot
+08.12.2015 23:53:59,872 [main] INFO  by.bsu.carpark.entity.Car - Thread #14 is created
+08.12.2015 23:53:59,873 [main] INFO  by.bsu.carpark.entity.Car - Thread #15 is created
+08.12.2015 23:53:59,873 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Thread #14 tried to getLot
+08.12.2015 23:53:59,873 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Thread #15 tried to getLot
+08.12.2015 23:53:59,874 [main] INFO  by.bsu.carpark.entity.Car - Thread #16 is created
+08.12.2015 23:53:59,874 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Thread #16 tried to getLot
+08.12.2015 23:53:59,876 [main] INFO  by.bsu.carpark.entity.Car - Thread #17 is created
+08.12.2015 23:53:59,877 [Thread-5] DEBUG by.bsu.carpark.entity.Car - Thread #16is terminated
+08.12.2015 23:53:59,879 [main] INFO  by.bsu.carpark.entity.Car - Thread #18 is created
+08.12.2015 23:53:59,881 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Thread #17 tried to getLot
+08.12.2015 23:53:59,881 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Thread #18 tried to getLot
+08.12.2015 23:53:59,881 [Thread-6] DEBUG by.bsu.carpark.entity.Car - Thread #17is terminated
+08.12.2015 23:53:59,881 [Thread-7] DEBUG by.bsu.carpark.entity.Car - Thread #18is terminated
+08.12.2015 23:53:59,882 [main] INFO  by.bsu.carpark.entity.Car - Thread #19 is created
+08.12.2015 23:53:59,882 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Thread #19 tried to getLot
+08.12.2015 23:53:59,883 [Thread-8] DEBUG by.bsu.carpark.entity.Car - Thread #19is terminated
+08.12.2015 23:53:59,884 [main] INFO  by.bsu.carpark.entity.Car - Thread #20 is created
+08.12.2015 23:53:59,885 [main] INFO  by.bsu.carpark.entity.Car - Thread #21 is created
+08.12.2015 23:53:59,885 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Thread #20 tried to getLot
+08.12.2015 23:53:59,886 [Thread-9] DEBUG by.bsu.carpark.entity.Car - Thread #20is terminated
+08.12.2015 23:53:59,886 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Thread #21 tried to getLot
+08.12.2015 23:53:59,886 [Thread-10] DEBUG by.bsu.carpark.entity.Car - Thread #21is terminated
+08.12.2015 23:53:59,887 [main] INFO  by.bsu.carpark.entity.Car - Thread #22 is created
+08.12.2015 23:53:59,888 [main] INFO  by.bsu.carpark.entity.Car - Thread #23 is created
+08.12.2015 23:53:59,889 [main] INFO  by.bsu.carpark.entity.Car - Thread #24 is created
+08.12.2015 23:53:59,889 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Thread #22 tried to getLot
+08.12.2015 23:53:59,889 [Thread-11] DEBUG by.bsu.carpark.entity.Car - Thread #22is terminated
+08.12.2015 23:53:59,889 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Thread #23 tried to getLot
+08.12.2015 23:53:59,890 [main] INFO  by.bsu.carpark.entity.Car - Thread #25 is created
+08.12.2015 23:53:59,890 [Thread-12] DEBUG by.bsu.carpark.entity.Car - Thread #23is terminated
+08.12.2015 23:53:59,891 [main] INFO  by.bsu.carpark.entity.Car - Thread #26 is created
+08.12.2015 23:53:59,893 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Thread #24 tried to getLot
+08.12.2015 23:53:59,893 [main] INFO  by.bsu.carpark.entity.Car - Thread #27 is created
+08.12.2015 23:53:59,893 [Thread-13] DEBUG by.bsu.carpark.entity.Car - Thread #24is terminated
+08.12.2015 23:53:59,894 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Thread #25 tried to getLot
+08.12.2015 23:53:59,894 [Thread-14] DEBUG by.bsu.carpark.entity.Car - Thread #25is terminated
+08.12.2015 23:53:59,895 [main] INFO  by.bsu.carpark.entity.Car - Thread #28 is created
+08.12.2015 23:53:59,895 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Thread #26 tried to getLot
+08.12.2015 23:53:59,896 [Thread-15] DEBUG by.bsu.carpark.entity.Car - Thread #26is terminated
+08.12.2015 23:53:59,897 [main] INFO  by.bsu.carpark.entity.Car - Thread #29 is created
+08.12.2015 23:53:59,898 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Thread #27 tried to getLot
+08.12.2015 23:53:59,899 [main] INFO  by.bsu.carpark.entity.Car - Thread #30 is created
+08.12.2015 23:53:59,899 [Thread-16] DEBUG by.bsu.carpark.entity.Car - Thread #27is terminated
+08.12.2015 23:53:59,902 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Thread #28 tried to getLot
+08.12.2015 23:53:59,902 [Thread-17] DEBUG by.bsu.carpark.entity.Car - Thread #28is terminated
+08.12.2015 23:53:59,903 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Thread #29 tried to getLot
+08.12.2015 23:53:59,903 [Thread-18] DEBUG by.bsu.carpark.entity.Car - Thread #29is terminated
+08.12.2015 23:53:59,905 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Thread #30 tried to getLot
+08.12.2015 23:53:59,905 [Thread-19] DEBUG by.bsu.carpark.entity.Car - Thread #30is terminated
+08.12.2015 23:53:59,916 [Thread-3] DEBUG by.bsu.carpark.entity.Car - Thread #14is terminated
+08.12.2015 23:53:59,919 [Thread-2] DEBUG by.bsu.carpark.entity.Car - Thread #13is terminated
+08.12.2015 23:53:59,933 [Thread-1] DEBUG by.bsu.carpark.entity.Car - Thread #12is terminated
+08.12.2015 23:53:59,953 [Thread-4] DEBUG by.bsu.carpark.entity.Car - Thread #15is terminated
+08.12.2015 23:53:59,995 [Thread-0] DEBUG by.bsu.carpark.entity.Car - Thread #11is terminated
+08.12.2015 23:54:10,787 [main] INFO  by.bsu.carpark.entity.Car - Thread #11 is created
+08.12.2015 23:54:10,789 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - Thread #11 tried to getLot
+08.12.2015 23:54:10,792 [main] INFO  by.bsu.carpark.entity.Car - Thread #12 is created
+08.12.2015 23:54:10,792 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - Thread #12 tried to getLot
+08.12.2015 23:54:10,794 [main] INFO  by.bsu.carpark.entity.Car - Thread #13 is created
+08.12.2015 23:54:10,794 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - Thread #13 tried to getLot
+08.12.2015 23:54:10,796 [main] INFO  by.bsu.carpark.entity.Car - Thread #14 is created
+08.12.2015 23:54:10,796 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Thread #14 tried to getLot
+08.12.2015 23:54:10,798 [main] INFO  by.bsu.carpark.entity.Car - Thread #15 is created
+08.12.2015 23:54:10,799 [main] INFO  by.bsu.carpark.entity.Car - Thread #16 is created
+08.12.2015 23:54:10,799 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Thread #15 tried to getLot
+08.12.2015 23:54:10,799 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Thread #16 tried to getLot
+08.12.2015 23:54:10,800 [main] INFO  by.bsu.carpark.entity.Car - Thread #17 is created
+08.12.2015 23:54:10,800 [Thread-5] DEBUG by.bsu.carpark.entity.Car - Thread #16 is terminated
+08.12.2015 23:54:10,800 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Thread #17 tried to getLot
+08.12.2015 23:54:10,800 [Thread-6] DEBUG by.bsu.carpark.entity.Car - Thread #17 is terminated
+08.12.2015 23:54:10,801 [main] INFO  by.bsu.carpark.entity.Car - Thread #18 is created
+08.12.2015 23:54:10,801 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Thread #18 tried to getLot
+08.12.2015 23:54:10,801 [Thread-7] DEBUG by.bsu.carpark.entity.Car - Thread #18 is terminated
+08.12.2015 23:54:10,803 [main] INFO  by.bsu.carpark.entity.Car - Thread #19 is created
+08.12.2015 23:54:10,803 [Thread-0] DEBUG by.bsu.carpark.entity.Car - Thread #11 is terminated
+08.12.2015 23:54:10,803 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Thread #19 tried to getLot
+08.12.2015 23:54:10,805 [main] INFO  by.bsu.carpark.entity.Car - Thread #20 is created
+08.12.2015 23:54:10,805 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Thread #20 tried to getLot
+08.12.2015 23:54:10,805 [Thread-9] DEBUG by.bsu.carpark.entity.Car - Thread #20 is terminated
+08.12.2015 23:54:10,807 [main] INFO  by.bsu.carpark.entity.Car - Thread #21 is created
+08.12.2015 23:54:10,807 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Thread #21 tried to getLot
+08.12.2015 23:54:10,808 [Thread-10] DEBUG by.bsu.carpark.entity.Car - Thread #21 is terminated
+08.12.2015 23:54:10,809 [main] INFO  by.bsu.carpark.entity.Car - Thread #22 is created
+08.12.2015 23:54:10,809 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Thread #22 tried to getLot
+08.12.2015 23:54:10,810 [Thread-11] DEBUG by.bsu.carpark.entity.Car - Thread #22 is terminated
+08.12.2015 23:54:10,811 [main] INFO  by.bsu.carpark.entity.Car - Thread #23 is created
+08.12.2015 23:54:10,811 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Thread #23 tried to getLot
+08.12.2015 23:54:10,811 [Thread-12] DEBUG by.bsu.carpark.entity.Car - Thread #23 is terminated
+08.12.2015 23:54:10,813 [main] INFO  by.bsu.carpark.entity.Car - Thread #24 is created
+08.12.2015 23:54:10,813 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Thread #24 tried to getLot
+08.12.2015 23:54:10,814 [Thread-13] DEBUG by.bsu.carpark.entity.Car - Thread #24 is terminated
+08.12.2015 23:54:10,815 [main] INFO  by.bsu.carpark.entity.Car - Thread #25 is created
+08.12.2015 23:54:10,819 [main] INFO  by.bsu.carpark.entity.Car - Thread #26 is created
+08.12.2015 23:54:10,820 [main] INFO  by.bsu.carpark.entity.Car - Thread #27 is created
+08.12.2015 23:54:10,820 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Thread #25 tried to getLot
+08.12.2015 23:54:10,820 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Thread #26 tried to getLot
+08.12.2015 23:54:10,820 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Thread #27 tried to getLot
+08.12.2015 23:54:10,820 [Thread-14] DEBUG by.bsu.carpark.entity.Car - Thread #25 is terminated
+08.12.2015 23:54:10,820 [Thread-16] DEBUG by.bsu.carpark.entity.Car - Thread #27 is terminated
+08.12.2015 23:54:10,820 [Thread-15] DEBUG by.bsu.carpark.entity.Car - Thread #26 is terminated
+08.12.2015 23:54:10,822 [main] INFO  by.bsu.carpark.entity.Car - Thread #28 is created
+08.12.2015 23:54:10,822 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Thread #28 tried to getLot
+08.12.2015 23:54:10,822 [Thread-17] DEBUG by.bsu.carpark.entity.Car - Thread #28 is terminated
+08.12.2015 23:54:10,824 [main] INFO  by.bsu.carpark.entity.Car - Thread #29 is created
+08.12.2015 23:54:10,825 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Thread #29 tried to getLot
+08.12.2015 23:54:10,825 [Thread-18] DEBUG by.bsu.carpark.entity.Car - Thread #29 is terminated
+08.12.2015 23:54:10,826 [main] INFO  by.bsu.carpark.entity.Car - Thread #30 is created
+08.12.2015 23:54:10,826 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Thread #30 tried to getLot
+08.12.2015 23:54:10,827 [Thread-1] DEBUG by.bsu.carpark.entity.Car - Thread #12 is terminated
+08.12.2015 23:54:10,828 [Thread-19] DEBUG by.bsu.carpark.entity.Car - Thread #30 is terminated
+08.12.2015 23:54:10,849 [Thread-2] DEBUG by.bsu.carpark.entity.Car - Thread #13 is terminated
+08.12.2015 23:54:10,852 [Thread-8] DEBUG by.bsu.carpark.entity.Car - Thread #19 is terminated
+08.12.2015 23:54:10,866 [Thread-4] DEBUG by.bsu.carpark.entity.Car - Thread #15 is terminated
+08.12.2015 23:54:10,876 [Thread-3] DEBUG by.bsu.carpark.entity.Car - Thread #14 is terminated
+08.12.2015 23:56:25,808 [main] INFO  by.bsu.carpark.entity.Car - Thread #11 is created
+08.12.2015 23:56:25,810 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - Thread #11 tried to getLot
+08.12.2015 23:56:25,812 [Thread-0] DEBUG by.bsu.carpark.pool.ParkPool - Thread #11 get Lock
+08.12.2015 23:56:25,813 [main] INFO  by.bsu.carpark.entity.Car - Thread #12 is created
+08.12.2015 23:56:25,813 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - Thread #12 tried to getLot
+08.12.2015 23:56:25,814 [Thread-1] DEBUG by.bsu.carpark.pool.ParkPool - Thread #12 get Lock
+08.12.2015 23:56:25,815 [main] INFO  by.bsu.carpark.entity.Car - Thread #13 is created
+08.12.2015 23:56:25,819 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - Thread #13 tried to getLot
+08.12.2015 23:56:25,820 [main] INFO  by.bsu.carpark.entity.Car - Thread #14 is created
+08.12.2015 23:56:25,820 [Thread-2] DEBUG by.bsu.carpark.pool.ParkPool - Thread #13 get Lock
+08.12.2015 23:56:25,821 [main] INFO  by.bsu.carpark.entity.Car - Thread #15 is created
+08.12.2015 23:56:25,821 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Thread #14 tried to getLot
+08.12.2015 23:56:25,821 [Thread-3] DEBUG by.bsu.carpark.pool.ParkPool - Thread #14 get Lock
+08.12.2015 23:56:25,821 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Thread #15 tried to getLot
+08.12.2015 23:56:25,822 [Thread-4] DEBUG by.bsu.carpark.pool.ParkPool - Thread #15 get Lock
+08.12.2015 23:56:25,823 [main] INFO  by.bsu.carpark.entity.Car - Thread #16 is created
+08.12.2015 23:56:25,823 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Thread #16 tried to getLot
+08.12.2015 23:56:25,823 [Thread-5] DEBUG by.bsu.carpark.pool.ParkPool - Thread #16 get Lock
+08.12.2015 23:56:25,824 [Thread-5] DEBUG by.bsu.carpark.entity.Car - Thread #16 is terminated
+08.12.2015 23:56:25,825 [main] INFO  by.bsu.carpark.entity.Car - Thread #17 is created
+08.12.2015 23:56:25,825 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Thread #17 tried to getLot
+08.12.2015 23:56:25,826 [main] INFO  by.bsu.carpark.entity.Car - Thread #18 is created
+08.12.2015 23:56:25,826 [Thread-6] DEBUG by.bsu.carpark.pool.ParkPool - Thread #17 get Lock
+08.12.2015 23:56:25,826 [Thread-6] DEBUG by.bsu.carpark.entity.Car - Thread #17 is terminated
+08.12.2015 23:56:25,827 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Thread #18 tried to getLot
+08.12.2015 23:56:25,830 [main] INFO  by.bsu.carpark.entity.Car - Thread #19 is created
+08.12.2015 23:56:25,831 [Thread-7] DEBUG by.bsu.carpark.pool.ParkPool - Thread #18 get Lock
+08.12.2015 23:56:25,831 [Thread-7] DEBUG by.bsu.carpark.entity.Car - Thread #18 is terminated
+08.12.2015 23:56:25,833 [main] INFO  by.bsu.carpark.entity.Car - Thread #20 is created
+08.12.2015 23:56:25,834 [main] INFO  by.bsu.carpark.entity.Car - Thread #21 is created
+08.12.2015 23:56:25,834 [Thread-2] DEBUG by.bsu.carpark.entity.Car - Thread #13 is terminated
+08.12.2015 23:56:25,835 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Thread #19 tried to getLot
+08.12.2015 23:56:25,836 [main] INFO  by.bsu.carpark.entity.Car - Thread #22 is created
+08.12.2015 23:56:25,836 [Thread-8] DEBUG by.bsu.carpark.pool.ParkPool - Thread #19 get Lock
+08.12.2015 23:56:25,837 [main] INFO  by.bsu.carpark.entity.Car - Thread #23 is created
+08.12.2015 23:56:25,837 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Thread #20 tried to getLot
+08.12.2015 23:56:25,837 [Thread-9] DEBUG by.bsu.carpark.pool.ParkPool - Thread #20 get Lock
+08.12.2015 23:56:25,837 [Thread-9] DEBUG by.bsu.carpark.entity.Car - Thread #20 is terminated
+08.12.2015 23:56:25,839 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Thread #21 tried to getLot
+08.12.2015 23:56:25,839 [main] INFO  by.bsu.carpark.entity.Car - Thread #24 is created
+08.12.2015 23:56:25,839 [Thread-10] DEBUG by.bsu.carpark.pool.ParkPool - Thread #21 get Lock
+08.12.2015 23:56:25,839 [Thread-10] DEBUG by.bsu.carpark.entity.Car - Thread #21 is terminated
+08.12.2015 23:56:25,840 [main] INFO  by.bsu.carpark.entity.Car - Thread #25 is created
+08.12.2015 23:56:25,840 [Thread-1] DEBUG by.bsu.carpark.entity.Car - Thread #12 is terminated
+08.12.2015 23:56:25,841 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Thread #22 tried to getLot
+08.12.2015 23:56:25,841 [Thread-11] DEBUG by.bsu.carpark.pool.ParkPool - Thread #22 get Lock
+08.12.2015 23:56:25,842 [main] INFO  by.bsu.carpark.entity.Car - Thread #26 is created
+08.12.2015 23:56:25,843 [main] INFO  by.bsu.carpark.entity.Car - Thread #27 is created
+08.12.2015 23:56:25,843 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Thread #23 tried to getLot
+08.12.2015 23:56:25,844 [Thread-12] DEBUG by.bsu.carpark.pool.ParkPool - Thread #23 get Lock
+08.12.2015 23:56:25,844 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Thread #24 tried to getLot
+08.12.2015 23:56:25,849 [Thread-12] DEBUG by.bsu.carpark.entity.Car - Thread #23 is terminated
+08.12.2015 23:56:25,848 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Thread #25 tried to getLot
+08.12.2015 23:56:25,845 [main] INFO  by.bsu.carpark.entity.Car - Thread #28 is created
+08.12.2015 23:56:25,849 [Thread-13] DEBUG by.bsu.carpark.pool.ParkPool - Thread #24 get Lock
+08.12.2015 23:56:25,850 [Thread-14] DEBUG by.bsu.carpark.pool.ParkPool - Thread #25 get Lock
+08.12.2015 23:56:25,850 [Thread-13] DEBUG by.bsu.carpark.entity.Car - Thread #24 is terminated
+08.12.2015 23:56:25,851 [Thread-14] DEBUG by.bsu.carpark.entity.Car - Thread #25 is terminated
+08.12.2015 23:56:25,851 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Thread #26 tried to getLot
+08.12.2015 23:56:25,852 [main] INFO  by.bsu.carpark.entity.Car - Thread #29 is created
+08.12.2015 23:56:25,852 [Thread-15] DEBUG by.bsu.carpark.pool.ParkPool - Thread #26 get Lock
+08.12.2015 23:56:25,852 [Thread-15] DEBUG by.bsu.carpark.entity.Car - Thread #26 is terminated
+08.12.2015 23:56:25,853 [main] INFO  by.bsu.carpark.entity.Car - Thread #30 is created
+08.12.2015 23:56:25,853 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Thread #27 tried to getLot
+08.12.2015 23:56:25,854 [Thread-16] DEBUG by.bsu.carpark.pool.ParkPool - Thread #27 get Lock
+08.12.2015 23:56:25,854 [Thread-16] DEBUG by.bsu.carpark.entity.Car - Thread #27 is terminated
+08.12.2015 23:56:25,857 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Thread #28 tried to getLot
+08.12.2015 23:56:25,857 [Thread-17] DEBUG by.bsu.carpark.pool.ParkPool - Thread #28 get Lock
+08.12.2015 23:56:25,858 [Thread-17] DEBUG by.bsu.carpark.entity.Car - Thread #28 is terminated
+08.12.2015 23:56:25,859 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Thread #29 tried to getLot
+08.12.2015 23:56:25,860 [Thread-18] DEBUG by.bsu.carpark.pool.ParkPool - Thread #29 get Lock
+08.12.2015 23:56:25,860 [Thread-18] DEBUG by.bsu.carpark.entity.Car - Thread #29 is terminated
+08.12.2015 23:56:25,863 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Thread #30 tried to getLot
+08.12.2015 23:56:25,865 [Thread-19] DEBUG by.bsu.carpark.pool.ParkPool - Thread #30 get Lock
+08.12.2015 23:56:25,866 [Thread-19] DEBUG by.bsu.carpark.entity.Car - Thread #30 is terminated
+08.12.2015 23:56:25,873 [Thread-4] DEBUG by.bsu.carpark.entity.Car - Thread #15 is terminated
+08.12.2015 23:56:25,892 [Thread-11] DEBUG by.bsu.carpark.entity.Car - Thread #22 is terminated
+08.12.2015 23:56:25,896 [Thread-0] DEBUG by.bsu.carpark.entity.Car - Thread #11 is terminated
+08.12.2015 23:56:25,921 [Thread-3] DEBUG by.bsu.carpark.entity.Car - Thread #14 is terminated
+08.12.2015 23:56:25,935 [Thread-8] DEBUG by.bsu.carpark.entity.Car - Thread #19 is terminated

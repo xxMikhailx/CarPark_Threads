@@ -1,0 +1,107 @@
+07.12.2015 11:28:42,272 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@483a46a
+07.12.2015 11:28:42,317 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@bc2022
+07.12.2015 11:28:42,317 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@45beae51
+07.12.2015 11:28:42,317 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@6d08636f
+07.12.2015 11:28:42,318 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@74b12a50
+07.12.2015 11:28:42,318 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@bc2022
+07.12.2015 11:28:42,318 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@45beae51
+07.12.2015 11:28:42,319 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@6d08636f
+07.12.2015 11:28:42,319 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@74b12a50
+07.12.2015 11:28:42,319 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@45beae51
+07.12.2015 11:28:42,320 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@6d08636f
+07.12.2015 11:28:42,320 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@74b12a50
+07.12.2015 11:28:42,320 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@6d08636f
+07.12.2015 11:28:42,320 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@74b12a50
+07.12.2015 11:28:42,321 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - by.bsu.carpark.entity.ParkLot@74b12a50
+07.12.2015 11:30:24,929 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #1
+07.12.2015 11:30:24,931 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #2
+07.12.2015 11:30:24,932 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #3
+07.12.2015 11:30:24,932 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:30:24,933 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:30:24,933 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #2
+07.12.2015 11:30:24,933 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #3
+07.12.2015 11:30:24,934 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:30:24,934 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:30:24,934 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - LOT #3
+07.12.2015 11:30:24,934 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:30:24,934 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:30:24,935 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:30:24,935 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:30:24,935 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:35:39,687 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #1
+07.12.2015 11:35:39,688 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #2
+07.12.2015 11:35:39,689 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #3
+07.12.2015 11:35:39,689 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:35:39,690 [Thread-1] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:35:39,690 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - LOT #2
+07.12.2015 11:35:39,691 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - LOT #3
+07.12.2015 11:35:39,691 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:35:39,691 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:35:39,691 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - LOT #3
+07.12.2015 11:35:39,692 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:35:39,692 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:35:39,692 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #4
+07.12.2015 11:35:39,692 [Thread-0] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:35:39,693 [Thread-2] INFO  by.bsu.carpark.pool.ParkPool - LOT #5
+07.12.2015 11:35:39,693 [Thread-3] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,693 [Thread-4] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,694 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,694 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,694 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,695 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,695 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,695 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,695 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,696 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - LOT #1
+07.12.2015 11:35:39,696 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,696 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,697 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,697 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:35:39,697 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Car lost.
+07.12.2015 11:37:36,749 [Thread-5] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,750 [Thread-6] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,750 [Thread-7] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,751 [Thread-8] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,751 [Thread-9] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,751 [Thread-10] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,752 [Thread-11] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,752 [Thread-12] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,753 [Thread-13] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,753 [Thread-14] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,753 [Thread-15] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,754 [Thread-16] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,754 [Thread-17] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,755 [Thread-18] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:37:36,755 [Thread-19] INFO  by.bsu.carpark.pool.ParkPool - Park is full.
+07.12.2015 11:57:38,651 [Thread-1] INFO  by.bsu.carpark.entity.Car - Car №12 end using lot №2
+07.12.2015 11:57:38,651 [Thread-4] INFO  by.bsu.carpark.entity.Car - Car №15 end using lot №5
+07.12.2015 11:57:38,651 [Thread-0] INFO  by.bsu.carpark.entity.Car - Car №11 end using lot №1
+07.12.2015 11:57:38,651 [Thread-2] INFO  by.bsu.carpark.entity.Car - Car №13 end using lot №3
+07.12.2015 11:57:38,652 [Thread-13] INFO  by.bsu.carpark.entity.Car - Car №24 end using lot №2
+07.12.2015 11:57:38,651 [Thread-3] INFO  by.bsu.carpark.entity.Car - Car №14 end using lot №4
+07.12.2015 11:57:38,653 [Thread-14] INFO  by.bsu.carpark.entity.Car - Car №25 end using lot №5
+07.12.2015 11:57:38,654 [Thread-15] INFO  by.bsu.carpark.entity.Car - Car №26 end using lot №1
+07.12.2015 11:57:38,654 [Thread-19] INFO  by.bsu.carpark.entity.Car - Car №30 end using lot №5
+07.12.2015 11:57:38,655 [Thread-12] INFO  by.bsu.carpark.entity.Car - Car №23 end using lot №1
+07.12.2015 11:57:38,654 [Thread-18] INFO  by.bsu.carpark.entity.Car - Car №29 end using lot №4
+07.12.2015 11:57:38,654 [Thread-17] INFO  by.bsu.carpark.entity.Car - Car №28 end using lot №2
+07.12.2015 11:57:38,654 [Thread-16] INFO  by.bsu.carpark.entity.Car - Car №27 end using lot №3
+07.12.2015 11:57:53,962 [Thread-1] INFO  by.bsu.carpark.entity.Car - Car №12 end using lot №2
+07.12.2015 11:57:53,962 [Thread-2] INFO  by.bsu.carpark.entity.Car - Car №13 end using lot №3
+07.12.2015 11:57:53,967 [Thread-0] INFO  by.bsu.carpark.entity.Car - Car №11 end using lot №1
+07.12.2015 11:57:54,023 [Thread-4] INFO  by.bsu.carpark.entity.Car - Car №15 end using lot №5
+07.12.2015 11:57:54,047 [Thread-3] INFO  by.bsu.carpark.entity.Car - Car №14 end using lot №4
+07.12.2015 11:58:33,706 [Thread-1] INFO  by.bsu.carpark.entity.Car - Car №12 start using lot №2
+07.12.2015 11:58:33,707 [Thread-4] INFO  by.bsu.carpark.entity.Car - Car №15 start using lot №5
+07.12.2015 11:58:33,707 [Thread-3] INFO  by.bsu.carpark.entity.Car - Car №14 start using lot №4
+07.12.2015 11:58:33,706 [Thread-0] INFO  by.bsu.carpark.entity.Car - Car №11 start using lot №3
+07.12.2015 11:58:33,706 [Thread-2] INFO  by.bsu.carpark.entity.Car - Car №13 start using lot №1
+07.12.2015 11:58:33,709 [Thread-4] INFO  by.bsu.carpark.entity.Car - Car №15 end using lot №5
+07.12.2015 11:58:33,710 [Thread-17] INFO  by.bsu.carpark.entity.Car - Car №28 start using lot №5
+07.12.2015 11:58:33,710 [Thread-1] INFO  by.bsu.carpark.entity.Car - Car №12 end using lot №2
+07.12.2015 11:58:33,711 [Thread-11] INFO  by.bsu.carpark.entity.Car - Car №22 start using lot №2
+07.12.2015 11:58:33,722 [Thread-2] INFO  by.bsu.carpark.entity.Car - Car №13 end using lot №1
+07.12.2015 11:58:33,725 [Thread-3] INFO  by.bsu.carpark.entity.Car - Car №14 end using lot №4
+07.12.2015 11:58:33,792 [Thread-11] INFO  by.bsu.carpark.entity.Car - Car №22 end using lot №2
+07.12.2015 11:58:33,794 [Thread-17] INFO  by.bsu.carpark.entity.Car - Car №28 end using lot №5
+07.12.2015 11:58:33,797 [Thread-0] INFO  by.bsu.carpark.entity.Car - Car №11 end using lot №3
