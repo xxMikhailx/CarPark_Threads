@@ -2,14 +2,11 @@ package by.bsu.carpark.main;
 
 import by.bsu.carpark.creator.Creator;
 import by.bsu.carpark.entity.Car;
-import by.bsu.carpark.entity.CarPark;
-import by.bsu.carpark.entity.ParkLot;
 import by.bsu.carpark.pool.ParkPool;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 
-import java.util.LinkedList;
 
 /**
  * Created by Михаил on 06.12.2015.

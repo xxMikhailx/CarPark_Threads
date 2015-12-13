@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d34117ce-1c29-48fb-8d61-494891a5ef31" name="Default" comment="Upper case and final fixes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/creator/Creator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/CarPark.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/exception/ParkException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/main/Main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/main/Main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/main/Main$3.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/entity/Car.class" afterPath="$PROJECT_DIR$/target/classes/by/bsu/carpark/entity/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/entity/ParkLot.class" afterPath="$PROJECT_DIR$/target/classes/by/bsu/carpark/entity/ParkLot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/main/Main.class" afterPath="$PROJECT_DIR$/target/classes/by/bsu/carpark/main/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/by/bsu/carpark/pool/ParkPool.class" afterPath="$PROJECT_DIR$/target/classes/by/bsu/carpark/pool/ParkPool.class" />
+    <list default="true" id="d34117ce-1c29-48fb-8d61-494891a5ef31" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/log.txt" afterPath="$PROJECT_DIR$/logs/log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/Car.java" afterPath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/ParkLot.java" afterPath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/ParkLot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/main/Main.java" afterPath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/main/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/pool/ParkPool.java" afterPath="$PROJECT_DIR$/src/main/java/by/bsu/carpark/pool/ParkPool.java" />
     </list>
     <ignored path="CarPark.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +30,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27478448">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.073275864">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -892,7 +878,7 @@
       <workItem from="1449825700757" duration="322000" />
       <workItem from="1449828828217" duration="8000" />
       <workItem from="1449829628555" duration="521000" />
-      <workItem from="1450006561072" duration="10463000" />
+      <workItem from="1450006561072" duration="10859000" />
     </task>
     <task id="LOCAL-00001" summary="Upper case and final fixes">
       <created>1449745493084</created>
@@ -900,11 +886,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449745493085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CarPark placed in a separate class. Creating objects through the Creator class. Removed ParkException unnecessary.">
+      <created>1450017724256</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1450017724256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83987000" />
+    <option name="totallyTimeSpent" value="84383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="22" width="1936" height="1066" extended-state="6" />
@@ -949,7 +941,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upper case and final fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upper case and final fixes" />
+    <MESSAGE value="CarPark placed in a separate class. Creating objects through the Creator class. Removed ParkException unnecessary." />
+    <option name="LAST_COMMIT_MESSAGE" value="CarPark placed in a separate class. Creating objects through the Creator class. Removed ParkException unnecessary." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1317,34 +1310,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/creator/Creator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="32" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/ParkLot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1369,20 +1340,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/creator/Creator.java">
+    <entry file="file://$PROJECT_DIR$/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/ParkLot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/entity/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/carpark/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27478448">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.073275864">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding />
         </state>
       </provider>
