@@ -33,6 +33,7 @@ public class ParkLot {
     }
 
     public void using(){
+        LOG.debug("LOT #" + lotId + " using by Car #" + Thread.currentThread().getId());
         try{
             TimeUnit.MILLISECONDS.sleep(new java.util.Random().nextInt(200));
         } catch (InterruptedException e){
@@ -42,6 +43,6 @@ public class ParkLot {
 
     @Override
     public String toString(){
-        return "LOT #" + lotId;
+        return "LOT #" + lotId + " PARK_ID #" + parkId;
     }
 }

@@ -3,6 +3,7 @@ package by.bsu.carpark.entity;
 import by.bsu.carpark.pool.ParkPool;
 import org.apache.log4j.Logger;
 
+
 /**
  * Created by Михаил on 06.12.2015.
  */
@@ -20,21 +21,24 @@ public class Car extends Thread {
 
     public void run(){
         this.setName("Car-" + this.getId());
-        ParkLot lot;
+        ParkLot lot = null;
 
-        do {
+        while (lot == null){
             LOG.debug("Try of getting lot (while). Car #" + this.getId());
             lot = pool.getLot(500);
-        } while (lot == null);
-        System.out.println("Car №" + this.getId() + " took park lot №" + lot.getLotId() + ". Parking №" + lot.getParkId());
+        }
+        LOG.info("Car №" + this.getId() + " took park lot №" + lot.getLotId() + ". Parking №" + lot.getParkId());
         standing = true;
 
         lot.using();
 
         standing = false;
-        System.out.println("Car №" + this.getId() + " : " + lot.getLotId() + " lot released. Parking №" + lot.getParkId());
-        pool.returnLot(lot);
-
+        LOG.info("Car №" + this.getId() + " : " + lot.getLotId() + " lot released. Parking №" + lot.getParkId());
+        while (true){
+            if (pool.returnLot(lot)){
+                break;
+            }
+        }
         LOG.debug("Car #" + this.getId() + " is terminated");
     }
 
